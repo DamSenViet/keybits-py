@@ -3,7 +3,7 @@ class Validatable:
       return
 
   @property
-  def isValid(self):
+  def is_valid(self):
     try:
       self.validate()
       return True
