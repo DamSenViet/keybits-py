@@ -1,0 +1,2 @@
+class StrictPoint(Point):
+  pass

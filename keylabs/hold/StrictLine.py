@@ -1,0 +1,2 @@
+class StrictLine(Line):
+  pass
