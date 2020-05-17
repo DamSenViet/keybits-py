@@ -1,0 +1,2 @@
+class StrictPolygon:
+  pass
