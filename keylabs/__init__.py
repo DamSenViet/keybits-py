@@ -1,1 +1,1 @@
-from .geometry import * as geometry
+from . import geometry
