@@ -1,3 +1,16 @@
+## Ignore Dependencies
+**/node_modules
+
+# Ignore build
+**/build
+
 ## tmp files
 **/__pycache__
 **/*.egg-info
+
+# Ignore OS Metadata
+**/.DS_Store
+
+
+# Ignore Workspace
+**/.vscode
